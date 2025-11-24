@@ -21,6 +21,14 @@ seoSecondaryKeywords:
   - data cleaning
   - data merging
 seoOptimized: true
+topicFamily: datascience
+topicFamilyConfidence: 0.95
+topicFamilyNotes: >-
+  The blog post details a modular pipeline for web scraping, data processing, cleaning, merging, and
+  exporting real estate data. The workflow includes ETL-type tasks and integration with data
+  management systems, which aligns closely with the 'datascience' family focused on data analysis
+  projects and ETL pipelines. Although automation is involved, the primary focus is data workflows
+  rather than build or deployment automation.
 ---
 
 # project-web-scraping: Technical Overview and Implementation Notes
@@ -84,3 +92,4 @@ Understanding the flow from configuration loading, credential setup, scraping, d
 ## Conclusion
 
 This project provides a foundation for automated real estate data scraping and management with integration into Google services. While functional, it requires refinement and modernization to improve robustness, maintainability, and extensibility. The modular design and configuration-driven approach offer flexibility for future enhancements and adaptation to new data sources.
+
