@@ -1,12 +1,27 @@
 ---
-slug: "github-project-web-scraping"
-title: "project-web-scraping"
-repo: "justin-napolitano/project-web-scraping"
-githubUrl: "https://github.com/justin-napolitano/project-web-scraping"
-generatedAt: "2025-11-23T09:26:29.070337Z"
-source: "github-auto"
+slug: github-project-web-scraping
+title: Automated Real Estate Data Scraping and Management with Google Integration
+repo: justin-napolitano/project-web-scraping
+githubUrl: https://github.com/justin-napolitano/project-web-scraping
+generatedAt: '2025-11-23T09:26:29.070337Z'
+source: github-auto
+summary: >-
+  Technical overview of a modular, YAML-configured pipeline for scraping, processing, and managing
+  real estate data with Google Sheets and Drive integration.
+tags:
+  - web-scraping
+  - real-estate-data
+  - google-sheets
+  - google-drive
+  - data-processing
+seoPrimaryKeyword: real estate data scraping
+seoSecondaryKeywords:
+  - google sheets integration
+  - web scraping pipeline
+  - data cleaning
+  - data merging
+seoOptimized: true
 ---
-
 
 # project-web-scraping: Technical Overview and Implementation Notes
 
