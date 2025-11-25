@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/project-web-scraping
 generatedAt: '2025-11-24T21:35:58.604Z'
 source: github-auto
 summary: >-
-  A general-purpose web scraping tool to extract and manage real estate data
-  from various online sources using Python.
+  A general-purpose web scraping tool to extract and manage real estate data from various online
+  sources using Python.
 tags:
   - web scraping
   - python
@@ -22,8 +22,8 @@ seoSecondaryKeywords:
   - data management tool
   - scraping realtor websites
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: datascience
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -120,3 +120,4 @@ This will load the configuration, initialize services, and run the scraping and 
 ---
 
 *Note: Some modules and functions are partially implemented or marked as obsolete and may require cleanup or rework.*
+
