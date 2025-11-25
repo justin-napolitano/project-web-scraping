@@ -1,19 +1,27 @@
 ---
 slug: github-project-web-scraping
 id: github-project-web-scraping
-title: project-web-scraping
+title: Web Scraping Application for Real Estate Data Extraction
 repo: justin-napolitano/project-web-scraping
 githubUrl: https://github.com/justin-napolitano/project-web-scraping
 generatedAt: '2025-11-24T21:35:58.604Z'
 source: github-auto
 summary: >-
-  General purpose webscraping application designed to extract, clean, and manage
-  real estate and related data from various online sources including Google
-  Sheets and realtor websites.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  A general-purpose web scraping tool to extract and manage real estate data
+  from various online sources using Python.
+tags:
+  - web scraping
+  - python
+  - beautifulsoup
+  - pandas
+seoPrimaryKeyword: web scraping application
+seoSecondaryKeywords:
+  - real estate data extraction
+  - python web scraping
+  - google sheets integration
+  - data management tool
+  - scraping realtor websites
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
