@@ -1,34 +1,45 @@
 ---
 slug: github-project-web-scraping
-title: Automated Real Estate Data Scraping and Management with Google Integration
+title: Automated Real Estate Data Scraping with Python
 repo: justin-napolitano/project-web-scraping
 githubUrl: https://github.com/justin-napolitano/project-web-scraping
 generatedAt: '2025-11-23T09:26:29.070337Z'
 source: github-auto
 summary: >-
-  Technical overview of a modular, YAML-configured pipeline for scraping, processing, and managing
-  real estate data with Google Sheets and Drive integration.
+  Explore a modular approach to scrape and manage real estate data using Python,
+  Google Sheets, and Drive integration.
 tags:
   - web-scraping
   - real-estate-data
   - google-sheets
   - google-drive
   - data-processing
-seoPrimaryKeyword: real estate data scraping
+  - web scraping
+  - beautifulsoup
+  - google sheets
+  - data processing
+  - real estate
+  - yaml
+  - data management
+seoPrimaryKeyword: automated real estate data scraping
 seoSecondaryKeywords:
+  - python web scraping project
   - google sheets integration
-  - web scraping pipeline
-  - data cleaning
-  - data merging
+  - data processing pipeline
+  - real estate data management
+  - scraping with beautifulsoup
 seoOptimized: true
 topicFamily: datascience
 topicFamilyConfidence: 0.95
 topicFamilyNotes: >-
-  The blog post details a modular pipeline for web scraping, data processing, cleaning, merging, and
-  exporting real estate data. The workflow includes ETL-type tasks and integration with data
-  management systems, which aligns closely with the 'datascience' family focused on data analysis
-  projects and ETL pipelines. Although automation is involved, the primary focus is data workflows
-  rather than build or deployment automation.
+  The blog post details a modular pipeline for web scraping, data processing,
+  cleaning, merging, and exporting real estate data. The workflow includes
+  ETL-type tasks and integration with data management systems, which aligns
+  closely with the 'datascience' family focused on data analysis projects and
+  ETL pipelines. Although automation is involved, the primary focus is data
+  workflows rather than build or deployment automation.
+kind: project
+id: github-project-web-scraping
 ---
 
 # project-web-scraping: Technical Overview and Implementation Notes
